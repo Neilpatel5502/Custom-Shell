@@ -59,7 +59,7 @@ A shell is a command-line interface that executes commands and manages processes
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Neilpatel5502/Custom-Shell.git
 2. Run the main.py file:
    ```bash
    python main.py
